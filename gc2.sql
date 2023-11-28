@@ -37,7 +37,7 @@ CREATE TABLE DiscountBands (
 );
 COMMIT;
 
--- Done import data from csv
+
 -- check table, one by one
 
 SELECT * FROM Segments;
