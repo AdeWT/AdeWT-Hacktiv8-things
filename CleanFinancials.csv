@@ -1,4 +1,4 @@
-Segment,Country,Product,Discount Band,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts,Sales,COGS,Profit,Date,Month Number,Month Name,Year
+Segment ID,Country ID,Product ID,Discount Band ID,Units Sold,Manufacturing Price,Sale Price,Gross Sales,Discounts,Sales,COGS,Profit,Date,Month Number,Month Name,Year
 1,1,1,1,1618,3.0,20.0,32370.0,0.0,32370.0,16185.0,16185.0,2014-01-01,1,January,2014
 1,2,1,1,1321,3.0,20.0,26420.0,0.0,26420.0,13210.0,13210.0,2014-01-01,1,January,2014
 2,3,1,1,2178,3.0,15.0,32670.0,0.0,32670.0,21780.0,10890.0,2014-06-01,6,June,2014
