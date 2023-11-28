@@ -1,3 +1,9 @@
+-- Graded Challange 2
+-- Name: Ade William Tabrani
+-- Batch: RMT-026
+
+--This .SQL is written as a test of student's ability in DDL, DML, DQL, TCL, and DCL in PostgreSQL
+
 -- CREATE DATABASE GC2;
 
 -- Creating Segments table
