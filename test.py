@@ -8,8 +8,7 @@ import pandas as pd
 
 app = FastAPI()
 
-API_KEY = 'adewt21'
-df = pd.read_csv("https://raw.githubusercontent.com/AdeWT/AdeWT-Hacktiv8-things/main/Countries.csv")
+df = pd.read_csv("https://raw.githubusercontent.com/AdeWT/AdeWT-Hacktiv8-things/main/no_outlier.csv")
 @app.get("/")
 def root():
     try:
